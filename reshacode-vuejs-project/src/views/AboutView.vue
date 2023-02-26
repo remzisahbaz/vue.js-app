@@ -1,6 +1,9 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <img  class="logo" src="https://www.pngplay.com/wp-content/uploads/9/Youtube-Logo-PNG-HD-Quality.png" width="100" height="75" />
+    <h2>resha-code bir youtube kanalıdır. </h2>
+
+    <b>Remzi ŞAHBAZ'a aittir.</b>
   </div>
 </template>
 
